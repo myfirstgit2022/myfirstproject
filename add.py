@@ -1,4 +1,5 @@
-e=50
-f=60
-print ( a*b)
-print (a+b)
+a=10
+b=20
+c=30
+d=40
+
