@@ -1,4 +1,3 @@
-a=20
-b = 2
-print (a*b)
-"new branch"
+a=10
+b=20
+print ( a/b)
